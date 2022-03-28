@@ -1,0 +1,5 @@
+---
+collections:
+- name: https://github.com/dotsenkois/my_own_collection/
+  type: git
+# version: <version_tag>
